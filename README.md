@@ -12,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sujalsubedi06&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalsubedi06&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5959047" style='border:none;'></iframe>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
